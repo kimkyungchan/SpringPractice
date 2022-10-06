@@ -11,7 +11,8 @@
 		<input type="hidden" name="parentId" value="10"/>
 		제목 : <input type="text" name="title"/><br>
 		내용 : <textarea name="content"></textarea><br>
+		작성일 : <input type ="date" name="regdate">
 		<input type="submit"/>
 	</form>
 </body>
-</html>
+</html> 

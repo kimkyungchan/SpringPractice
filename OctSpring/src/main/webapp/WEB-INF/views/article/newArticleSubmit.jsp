@@ -9,5 +9,6 @@
 	<!-- command라는 이름으로 결과값 전송받았으니 command.이름값으로 꺼내오기 -->
 	<br> 제목 : ${command.title}
 	<br> 내용 : ${command.content}
+	<br> 작성일 : ${command.regdate}
 </body>
 </html>
